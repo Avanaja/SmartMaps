@@ -7,3 +7,7 @@ This project is about ease the traffic by managing right buses to right traffic 
 •	APACHE TOMCAT
 •	ECLIPSE
 •	MYSQL
+# To do:
+We are going to develop the smart maps which make the travelling easier and we are going to use the above s/w for Front end and Back end. 
+# Goal:
+So we are going to deploy this Smart maps to ease the transportation.
